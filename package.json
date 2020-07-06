@@ -1,0 +1,11 @@
+{
+  "name": "react-interview-project-anne-bione-master",
+  "version": "1.0.0",
+  "description": "Simple calendar project",
+  "main": "index.js",
+  "author": "Anne Bione",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
